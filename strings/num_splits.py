@@ -7,7 +7,7 @@ Return the number of good splits you can make in s.
 """
 from collections import Counter, defaultdict
 
-def num_splits(self, s: str):
+def num_splits(s: str):
         """
         >> num_splits("aacaba")
         2
