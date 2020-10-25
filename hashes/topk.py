@@ -6,7 +6,7 @@ alphabetical order comes first.
 """
 import collections
 
-def topk_frequent(self, words, k):
+def topk_frequent(words, k):
     """
     >> topk_frequent(["i", "love", "leetcode", "i", "love", "coding"], 2)
     ["i", "love"]
